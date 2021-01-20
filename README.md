@@ -7,6 +7,9 @@
   <img align="left" alt="Furkan's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/steam.svg" />
 </a>
 
+<br />
+<br />
+
 # About me
 
 - 🎓 I'm 20 years old and I'm a mobile development student.
