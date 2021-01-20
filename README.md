@@ -21,7 +21,7 @@
 
 <br />
 
-# Connect with me:
+### Connect with me:
 
 <a href="https://www.instagram.com/vczila/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/vitor-cezila/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
