@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Vitor Cezila 👋
 
-<!--
-**VitorCezila/VitorCezila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/vitor-cezila/">
+  <img align="left" alt="Furkan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://steamcommunity.com/id/immingau/">
+  <img align="left" alt="Furkan's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/steam.svg" />
+</a>
 
-Here are some ideas to get you started:
+# About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm 20 years old and I'm a mobile development student.
+- 📱 Android Application developer.
+- 🎮 Loves playing [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorcezila&show_icons=true&theme=tokyonight" />
+</p>
