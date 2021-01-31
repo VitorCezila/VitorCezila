@@ -11,8 +11,8 @@
 
 ### Find me on:
 
-<a href="https://www.instagram.com/vczila/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/vitor-cezila/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.instagram.com/vczila/" target="_blank"><img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/instagram.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/vitor-cezila/" target="_blank"><img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/linkedin.png" alt="LinkedIn" width="30"></a>
 <a href="https://steamcommunity.com/id/immingau/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/steam.svg" alt="Steam" width="28"></a>
 
 <br />
