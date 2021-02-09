@@ -33,7 +33,7 @@
 
 
 <details>
-  <summary>:blossom: GitHub Stats</summary>
+  <summary>:octocat: GitHub Stats</summary>
 
  <img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vitorcezila&theme=dracula&show_icons=true&hide_border=true&hide=issues,contribs,prs" />
 
