@@ -5,7 +5,7 @@
 - 🎓 I'm 20 years old and I'm a mobile development student.
 - 📱 Android Application developer.
 - 🎮 Loves playing [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
-- ♟️ I love to play [chess](https://www.chess.com/member/cezila) in my free time
+- ♟️ I love to play [chess](https://www.chess.com/member/czila) in my free time
 
 <br />
 
