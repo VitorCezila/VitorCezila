@@ -13,7 +13,7 @@
 
 <a href="https://www.instagram.com/vczila/" target="_blank"><img src="https://github.com/VitorCezila/VitorCezila/blob/main/img/instagram.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/vitor-cezila/" target="_blank"><img src="https://github.com/VitorCezila/VitorCezila/blob/main/img/linkedin.png" alt="LinkedIn" width="30"></a>
-<a href="https://steamcommunity.com/id/immingau/" target="_blank"><img src="https://github.com/VitorCezila/VitorCezila/blob/main/img/steam.png" alt="Steam" width="28"></a>
+<a href="https://steamcommunity.com/id/czilaa/" target="_blank"><img src="https://github.com/VitorCezila/VitorCezila/blob/main/img/steam.png" alt="Steam" width="28"></a>
 <a href="mailto:vcezila@gmail.com"><img src="https://github.com/VitorCezila/VitorCezila/blob/main/img/email.png" width="30"></img></a>
 
 
@@ -33,7 +33,7 @@
 
 <details>
   <summary>:octocat: GitHub Stats</summary>
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcezila&layout=compact&theme=radical" />
  <img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vitorcezila&theme=dracula&show_icons=true&hide_border=true&hide=issues,contribs,prs" />
 
 </details>
