@@ -2,10 +2,10 @@
 
 ## About me
 
-- 🎓 I'm 22 years old and I'm a mobile development student.
-- 📱 Android Application developer.
-- 🎮 Loves playing [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
-- ♟️ I love to play [chess](https://www.chess.com/member/czila) in my free time
+- 🎓 I'm 23 years old and a student of mobile development.
+- 📱 I develop Android applications and libraries.
+- 🎮 I love playing [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
+- ♟️ I enjoy playing [chess](https://www.chess.com/member/czila) in my free time
 
 <br />
 
