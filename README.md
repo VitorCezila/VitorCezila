@@ -2,10 +2,11 @@
 
 ## About me
 
-- 🎓 I'm 23 years old and a student of mobile development.
-- 📱 I develop Android applications and libraries.
+- 🎓 I'm 23 years old and a computer science student
+- 📱 I develop Android applications and libraries
 - 🎮 I love playing [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
 - ♟️ I enjoy playing [chess](https://www.chess.com/member/czila) in my free time
+- 🎓 Currently studying Kotlin multiplatform and AWS
 
 <br />
 
@@ -25,8 +26,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div>
 
 <br />
