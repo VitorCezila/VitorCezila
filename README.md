@@ -2,11 +2,11 @@
 
 ## About me
 
-- 🎓 I'm 23 years old and a computer science student
+- 🎓 I'm 24 years old and a computer science student
 - 📱 I develop Android applications and libraries
 - 🎮 I love playing [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
 - ♟️ I enjoy playing [chess](https://www.chess.com/member/czila) in my free time
-- 🎓 Currently studying Kotlin multiplatform and AWS
+- 🎓 Currently studying AWS serverless with Python.
 
 <br />
 
