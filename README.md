@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🎓 I'm 24 years old and a computer science student
+- 🎓 I'm 25 years old and a computer science student
 - 📱 I develop Android applications and libraries
 - 🎮 I love playing [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
 - ♟️ I enjoy playing [chess](https://www.chess.com/member/czila) in my free time
@@ -31,10 +31,3 @@
 
 <br />
 <br />
-
-
-<details>
-  <summary>:octocat: GitHub Stats</summary>
- <img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vitorcezila&theme=dracula&show_icons=true&hide_border=true&hide=issues,contribs,prs" />
-
-</details>
