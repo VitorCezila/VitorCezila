@@ -15,7 +15,7 @@ Outside of work I ship my own apps, mostly around privacy and cryptography.
 | App | What it does | Stack | Links |
 | --- | --- | --- | --- |
 | **Hermes: Private PGP** | Offline PGP key manager: RSA-4096 and Ed25519 keys, encrypt, sign and verify on device | Compose, MVI, Clean Architecture, multi-module, Android Keystore | [Play Store](https://play.google.com/store/apps/details?id=com.cezila.hermes) · [Code](https://github.com/VitorCezila/hermes-android) |
-| **Wordify** | Daily word game with a serverless backend | Compose, Hilt, Coroutines, 11 Gradle modules, AWS SAM (Python) | [Play Store](https://play.google.com/store/apps/details?id=com.cezila.palavreando) |
+| **Wordify** | Daily word game with a serverless backend | Compose, Hilt, Coroutines, 11 Gradle modules, AWS SAM (Python) | [Play Store](https://play.google.com/store/apps/details?id=com.cezila.palavreando) · [App](https://github.com/VitorCezila/palavrao-android) · [Backend](https://github.com/VitorCezila/palavrao-backend) |
 | **KSafe** | Password manager with AES-256 encryption, generator and strength analysis | MVVM, Room, Hilt, Android Keystore | [Play Store](https://play.google.com/store/apps/details?id=com.cezila.ksafe) · [Code](https://github.com/VitorCezila/ksafe) |
 
 ---
